@@ -1,0 +1,10 @@
+<params>
+<url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+<excelName>統一202101_202306</excelName>
+<startYear>2021</startYear>
+<startMonth>01</startMonth>
+<endYear>2023</endYear>
+<endMonth>06</endMonth>
+<stockNo>1216</stockNo>
+</params>
+
